@@ -1092,8 +1092,7 @@ textarea.form-control {
 }
 
 .site-client {
-    background-image: url("/public/images/backgrounds/herobackground4.jpg");
-    padding: 100px 0 50px;
+    padding: 100px 0 50px
 }
 
 .site-client .section-title {
