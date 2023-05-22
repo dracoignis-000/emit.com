@@ -1,15 +1,12 @@
----
-created: [" 19-05-2023 20:57"]
-aliases: ["Project: "]
-tags:
-- Project/
----
 
-```
+
+
 Introduction - Tarry Godfrey Gaoseb
 
-Hello, I'm Tarry Godfrey Gaoseb, a professional Software Developer and Data Analyst. I have a diverse skill set and a passion for utilizing technology to solve complex problems. With a background in digital marketing, web development, and data analytics, I bring a unique perspective to my work.
-```
+Hello, I'm Tarry Godfrey Gaoseb, a professional Software Developer and Data Analyst.
+
+ I have a diverse skill set and a passion for utilizing technology to solve complex problems. With a background in digital marketing, web development, and data analytics, I bring a unique perspective to my work.
+
 
 
 # 🚀 - Background and Experience
@@ -24,16 +21,16 @@ In the field of data analytics, I have acquired in-depth knowledge and skills. I
 ##### Programming Languages
 | Name         | Level      | Note                                                                         |
 | ------------ | ---------- | ---------------------------------------------------------------------------- |
-| Java         | ⭐⭐⭐⭐⭐ | Java I  | 
-| Javascript   | ⭐⭐⭐⭐   |   I have an extensive knowledge of JS using it often when developing Websites                                                                           |
-| Python       | ⭐⭐⭐⭐⭐ |                                                                              |
-| HTML         | ⭐⭐⭐⭐⭐ |                                                                              |
-| CSS          | ⭐⭐⭐     |                                                                              |
-| Tailwind CSS | ⭐⭐       |                                                                              |
-| MYSQL        | ⭐⭐⭐⭐   |                                                                              |
-| PHP          | ⭐⭐⭐     |                                                                              |
-| C#           | ⭐⭐⭐⭐⭐ |                                                                              |
-| Markdown     | ⭐⭐⭐⭐⭐ |                                                                              |
+| Java         | ⭐⭐⭐⭐⭐ | Master  | 
+| Javascript   | ⭐⭐⭐⭐   |   Adept                                                                          |
+| Python       | ⭐⭐⭐⭐⭐ |   Master                                                                           |
+| HTML         | ⭐⭐⭐⭐⭐ |   Master                                                                           |
+| CSS          | ⭐⭐⭐     |    Good                                                                          |
+| Tailwind CSS | ⭐⭐       |   Average                                                                           |
+| MYSQL        | ⭐⭐⭐⭐   |    Adept                                                                          |
+| PHP          | ⭐⭐⭐     |   Good                                                                           |
+| C#           | ⭐⭐⭐⭐⭐ |   Master                                                                           |
+| Markdown     | ⭐⭐⭐⭐⭐ |     Master                                                                         |
 
 ---
 ## Areas of Expertise
