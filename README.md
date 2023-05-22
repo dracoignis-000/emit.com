@@ -1,7 +1,7 @@
 
 
 
-Introduction - Tarry Godfrey Gaoseb
+
 
 Hello, I'm Tarry Godfrey Gaoseb, a professional Software Developer and Data Analyst.
 
