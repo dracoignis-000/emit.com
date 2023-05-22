@@ -41,10 +41,6 @@ In the field of data analytics, I have acquired in-depth knowledge and skills. I
 - Economic Analysis: Excel-based economic analysis and data analytics.
 - Programming: Career Essentials in Software Development, Programming Foundations, and Software Development best practices.
 ---
-# 📜 Project Information
-
-## 1️⃣ -> Agro Park
-- The Agro Park is a web-based application that aims to help farmers manage their crops and improve their yields. It provides various features such as buying & selling of crops, crop advice, market prices, and a forum for farmers to connect with each other. In addition it provides logistic support so the farmer is in charger from the beginnig to the end
 
 
 --- 
