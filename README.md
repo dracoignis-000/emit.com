@@ -62,7 +62,7 @@ Till - 2020 18th November
 | Computer Studies | C     | Ordinary |
 | Geography        | C+    | Higher   |
 | Physical Science | C     | Higher   |
-| Mathematics      | D     | Ordinary |
+| Mathematics      | D     | Higher |
 | English          | C+    | Higher   |
 | German           | B+    | Higher   |
 
