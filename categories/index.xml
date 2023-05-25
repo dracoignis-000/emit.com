@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories</title>
+    <title>Categories on Godfrey | EMIT IO</title>
     <link>http://dracoignis-000.github.io/categories/</link>
-    <description>Recent content in Categories </description>
+    <description>Recent content in Categories on Godfrey | EMIT IO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="http://dracoignis-000.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
