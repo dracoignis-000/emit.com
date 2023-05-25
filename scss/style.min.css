@@ -460,7 +460,6 @@ textarea.form-control {
     position: absolute;
     background: rgb(245, 247, 255);
     width: 100%;
-    height: 115px;
     padding: 45px 50px;
     bottom: 0;
     transition: all .3s cubic-bezier(.36, .03, 0, .91)
@@ -503,12 +502,12 @@ textarea.form-control {
 .site-project-item-content a.read-more,
 .site-blog-post-content a.read-more {
     position: absolute;
-    bottom: 80px;
+    bottom: 10px;
     display: block;
     width: 100%;
     color: #9d9ea5;
     opacity: 0;
-    transform: translateY(-430px);
+    transform: translateY(200px);
     transition: all .3s cubic-bezier(.36, .03, 0, .91)
 }
 
