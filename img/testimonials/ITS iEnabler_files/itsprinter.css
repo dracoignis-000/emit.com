@@ -1,0 +1,219 @@
+A, A:active, A:link, A:visited {
+	font-family: Verdana, Arial, sans-serif;
+    text-decoration: none;
+}
+
+A:hover {
+	font-family: Verdana, Arial, sans-serif;
+	text-decoration : underline;
+}
+
+body {
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 9pt;
+	background-image: url(/itsimages/pf_background.gif);
+	background-repeat : repeat-y;
+	background-position : center;
+
+}
+
+body.blankpage { background-image: none }
+
+.framebody {
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 9pt;
+    margin-top : 0;
+    margin-left : 0;
+}
+
+div {
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 9pt;
+	color: #000000;
+}
+
+div.framediv {
+	text-align: center;
+	border : none;
+}
+
+div.repheader {
+        text-align: center;
+        font-family: Verdana, Arial, sans-serif;
+        font-size: 12pt;
+}
+
+div.repbody {
+}
+
+div.repfooter {
+        text-align: center;
+        font-family: Verdana, Arial, sans-serif;
+        font-size: 12pt;
+}
+
+p {
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 9pt;
+	color: #000000;
+}
+
+p.fineprint {
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 7pt;
+        text-align: left;
+	color: #000000;
+}
+
+tr {
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 9pt;
+	color: #000000;
+}
+
+menu {
+	font-family : Verdana, Arial, sans-serif;
+	font-size : 9pt;
+	color : #000000;
+}
+
+ul {
+	font-family : Verdana, Arial, sans-serif;
+	font-size : 9pt;
+	color : #000000;
+}
+
+td {
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 9pt;
+	color: #000000;
+}
+
+h1 {
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 14pt; 
+	font-weight: bold;
+	color: #000000;
+}
+
+h2 {
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 12pt; 
+	font-weight: bold;
+	color: #000000;
+}
+
+h3 {
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 9pt; 
+	font-weight: bold;
+	color: #000000;
+}
+
+.customfooter {
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 9pt;
+	color: #9C9E9C;
+}
+
+.custfooterlink,.custfooterlink:A,.custfooterlink:A:active, .custfooterlink:A:link, .custfooterlink:A:visited {
+	font-family: Verdana, Arial, sans-serif;
+	font-weight : normal;
+	text-decoration : none;
+	color: #9C9E9C;
+}
+
+.custfooterlink:Hover {
+	font-family: Verdana, Arial, sans-serif;
+	font-weight : normal;
+	text-decoration : underline;
+	color: #9C9E9C;
+}
+
+td.fra_header { 
+	background-color:  #DEDFDE 
+}
+
+td.fra_inst { 
+	background-color:  #DEDFDE; 
+	font-family : Verdana, sans-serif; 
+	font-size : 14pt; 
+	font-style : normal; 
+	font-weight : bold; 
+	text-align : center; 
+}
+
+td.datacell {
+	font : 8pt  Geneva, Helvetica, Arial, Verdana, sans-serif;
+}
+
+td.datacella {
+	font : 8pt Verdana, Geneva, Arial, Helvetica, sans-serif;
+	text-align: left;
+}
+
+td.datacelln {
+	font : 8pt Verdana, Geneva, Arial, Helvetica, sans-serif;
+	text-align: right;
+}
+
+td.datahdr {
+	font : 10pt Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+}
+
+td.nodata {
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-weight : bold;
+	font-size : 12pt;
+}
+
+td.inshdr {
+	font : 10pt Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+        font-size: 12pt;
+}
+
+p.sectionhdr {
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-weight : bold;
+	font-size   : 10pt;
+        text-align  : center;
+}
+
+.subhead1 {
+  font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+  font-size : 12pt;
+  font-weight : bold;
+}
+
+TD.loginlabel {
+	text-align: left;
+	font-family: verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+}
+
+TD.loginbuttons {
+	text-align: center;
+}
+
+TABLE.logintab {
+	background-color: #DBD8D5;
+}
+
+INPUT.btnsubmit {
+	font-family: verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+}
+
+A.loginlinks:LINK, A.loginlinks:VISITED, A.loginlinks:ACTIVE {
+	font-family: verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12pt;
+	text-decoration: underline;
+}
+
+A.loginlinks:HOVER {
+	font-family: verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12pt;
+	text-decoration: underline;
+}

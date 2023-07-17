@@ -1,10 +1,56 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Godfrey | EMIT IO</title>
-    <link>http://dracoignis-000.github.io/tags/</link>
-    <description>Recent content in Tags on Godfrey | EMIT IO</description>
+    <title>Tags on Agro Park</title>
+    <link>http://example.org/tags/</link>
+    <description>Recent content in Tags on Agro Park</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://dracoignis-000.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Aug 2021 21:29:20 +0200</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Africa</title>
+      <link>http://example.org/tags/africa/</link>
+      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
+      
+      <guid>http://example.org/tags/africa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Agriculture</title>
+      <link>http://example.org/tags/agriculture/</link>
+      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
+      
+      <guid>http://example.org/tags/agriculture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Business</title>
+      <link>http://example.org/tags/business/</link>
+      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
+      
+      <guid>http://example.org/tags/business/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ecommerce</title>
+      <link>http://example.org/tags/ecommerce/</link>
+      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
+      
+      <guid>http://example.org/tags/ecommerce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ecommerce and Agriculture</title>
+      <link>http://example.org/tags/ecommerce-and-agriculture/</link>
+      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
+      
+      <guid>http://example.org/tags/ecommerce-and-agriculture/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

@@ -2,57 +2,62 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://dracoignis-000.github.io/portfolio/agro-park/</loc>
-    <lastmod>2019-12-23T20:56:42+06:00</lastmod>
+    <loc>http://example.org/tags/africa/</loc>
+    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>http://dracoignis-000.github.io/</loc>
-    <lastmod>2019-12-23T20:56:42+06:00</lastmod>
+    <loc>http://example.org/tags/agriculture/</loc>
+    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>http://dracoignis-000.github.io/contact/</loc>
-    <lastmod>2019-12-23T20:17:01+06:00</lastmod>
+    <loc>http://example.org/categories/agriculture/</loc>
+    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>http://dracoignis-000.github.io/blog/</loc>
-    <lastmod>2019-12-23T20:17:01+06:00</lastmod>
+    <loc>http://example.org/</loc>
+    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>http://dracoignis-000.github.io/portfolio/</loc>
-    <lastmod>2019-12-23T16:48:28+06:00</lastmod>
+    <loc>http://example.org/authors/</loc>
+    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>http://dracoignis-000.github.io/portfolio/sel-namibia/</loc>
-    <lastmod>2019-12-23T15:58:10+06:00</lastmod>
+    <loc>http://example.org/blog/</loc>
+    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>http://dracoignis-000.github.io/portfolio/adminhub/</loc>
-    <lastmod>2019-12-23T15:56:43+06:00</lastmod>
+    <loc>http://example.org/tags/business/</loc>
+    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>http://dracoignis-000.github.io/portfolio/africa/</loc>
-    <lastmod>2019-12-23T15:56:43+06:00</lastmod>
+    <loc>http://example.org/categories/business/</loc>
+    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>http://dracoignis-000.github.io/portfolio/car-landing-page/</loc>
-    <lastmod>2019-12-23T15:56:43+06:00</lastmod>
+    <loc>http://example.org/categories/</loc>
+    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>http://dracoignis-000.github.io/portfolio/fruitify/</loc>
-    <lastmod>2019-12-23T15:56:43+06:00</lastmod>
+    <loc>http://example.org/categories/commerce/</loc>
+    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>http://dracoignis-000.github.io/portfolio/marktsuper/</loc>
-    <lastmod>2019-12-23T15:56:43+06:00</lastmod>
+    <loc>http://example.org/blog/2021/08/01/ecommerce/</loc>
+    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>http://dracoignis-000.github.io/portfolio/aromatica-natural-essence/</loc>
-    <lastmod>2019-12-23T15:55:44+06:00</lastmod>
+    <loc>http://example.org/tags/ecommerce/</loc>
+    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>http://dracoignis-000.github.io/portfolio/mindsinaction-steam/</loc>
-    <lastmod>2019-12-23T15:55:44+06:00</lastmod>
+    <loc>http://example.org/authors/godfrey-gaoseb/</loc>
+    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>http://dracoignis-000.github.io/portfolio/namibia-constitution/</loc>
-    <lastmod>2019-12-23T15:44:46+06:00</lastmod>
+    <loc>http://example.org/tags/</loc>
+    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>http://dracoignis-000.github.io/about/</loc>
-    <lastmod>2018-07-12T18:19:33+06:00</lastmod>
+    <loc>http://example.org/categories/agriculture-ecommerce-farming-food/</loc>
+    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
   </url><url>
-    <loc>http://dracoignis-000.github.io/categories/</loc>
+    <loc>http://example.org/tags/ecommerce-and-agriculture/</loc>
+    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
   </url><url>
-    <loc>http://dracoignis-000.github.io/blog/content-creation/</loc>
+    <loc>http://example.org/authors/godfrey-tarry-gaoseb/</loc>
+    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
   </url><url>
-    <loc>http://dracoignis-000.github.io/tags/</loc>
+    <loc>http://example.org/blog/2015/06/24/agriculture-ecommerce/</loc>
+    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
   </url><url>
-    <loc>http://dracoignis-000.github.io/blog/web-design-development/</loc>
+    <loc>http://example.org/contact/</loc>
+  </url><url>
+    <loc>http://example.org/faq/</loc>
   </url>
 </urlset>

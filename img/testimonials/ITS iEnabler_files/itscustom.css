@@ -1,0 +1,760 @@
+/* ************************************************************************
+Program : itscustom.css
+Version : v04.1.0.1
+Changes : 13-JUL-2004 Ollie T112550 Fix table layout on insert,update forms
+        : 31-MAR-2005 Ollie T119686 (Add errorDiv logic)
+        : 05-OCT-2005 Ollie T124507 (add sectionbrk logic)
+        : 05-OCT-2005 Ollie T124507 (fix framediv to left-align text)
+        : 05-OCT-2005 Ollie F124986 (Re-Align SS with Other Versions)
+        : 17-DEC-2004 Ollie T117125 Remove absolute position on login footer
+        : 21-Feb-2005 Els t117575 added rlheader_top for financial multi-row
+        :             record list headers (no bottom border).
+        : 30-OCT-2006 Ollie T137087 Copy from INT00 to INT01 and fix errors
+        : 29-Nov-2006 DG T138024 Standardise stylesheet
+        : 11-NOV-2008 MUK   T147305 added breadcrumbs
+        : 01-FEB-2009 Sonja T152141 added tr.de for multi-row  and
+        :                           note text vertical align
+        : 24-Aug-2009 DG T160492 Added comments display to iEnabler appointments
+        : 01-Apr-2014 DG 198448 Change body style : to exclude background-image attribute
+        :                                         : background-repeat to no-repeat
+        : 09-Nov-2018 DG 225095 Student experience improvement
+		: 17-May-2019 Thabang 236368 correct the alignment of the columns on the general ledger queries
+   ************************************************************************
+*/
+body {
+        background-color: #FFFFFF;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 12px;
+        margin-left: 10px;
+}
+
+img {
+        border:0;
+}
+
+body.blankpage {
+  background-image: none;
+}
+
+.rowover {
+        background-color: #EAEAEA;
+        vertical-align : top;
+        padding-right:2px;
+}
+
+.mandatory_fld {
+        color: #FF0000;
+        font-weight: bold;
+}
+
+.framebody {
+        background-color: #FFFFFF;
+        margin-top: 0;
+        margin-left: 10px;
+}
+
+body.accdet {
+        background-color: #FFFFFF;
+        font-family: Courier;
+        margin-top: 0;
+        margin-left: 10px;
+}
+
+a,
+a:active,
+a:link,
+a:visited {
+        color: #5A7EDC;
+        text-decoration: none;
+}
+
+a:hover {
+        text-decoration : underline;
+}
+
+div {
+        color: #000000;
+}
+
+div.framediv {
+        text-align: left;
+}
+
+div.acadrec {
+        border : 1px solid Black;
+}
+
+div.repheader {
+  text-align: center;
+}
+
+div.repbody {
+}
+
+div.repfooter {
+  text-align: center;
+}
+
+/* T160492 */
+div.commentdiv {
+        color: #000000;
+        background-color: silver;
+        font-weight: bold;
+}
+
+td.notetext {
+  text-align: left;
+  vertical-align: top;
+}
+
+td.ie_process_hdr {
+  font-weight: bold;
+  color: #0000FF;
+        border-top: solid black 1px;
+        border-left: solid black 1px;
+        border-right: solid black 1px;
+        text-align: center;
+        background-color: #E6F2FF;
+}
+
+td.ie_process {
+        vertical-align: top;
+}
+
+td.ie_process_desc {
+}
+
+p.fineprint {
+        font-size: 8px;
+  text-align: left;
+}
+
+h1 {
+        font-size: 16px;
+        font-weight: bold;
+}
+
+h2 {
+        font-size: 16px;
+        font-weight: bold;
+}
+
+h3 {
+        font-size: 14px;
+        font-weight: bold;
+}
+
+h4 {
+        font-size: 14px;
+        font-weight: bold;
+        color: #6D717D;
+}
+
+h5 {
+        font-weight: bold;
+}
+
+h6 {
+        font-weight: bold;
+}
+
+hr {
+        color : #6D717D;
+        height : 1px;
+}
+
+hr.mudsep {
+  color: black;
+  width: 80%;
+  height: 5px;
+}
+
+td.pagehdr_labt {
+        border-top: solid black 1px;
+        border-left: solid black 1px;
+        font-weight: bold;
+}
+
+td.pagehdr_dett {
+        border-top: solid black 1px;
+        border-right: solid black 1px;
+        border-left: solid black 1px;
+        font-weight: normal;
+}
+
+td.pagehdr_labb {
+        border-bottom: solid black 1px;
+        border-left: solid black 1px;
+        font-weight: bold;
+}
+
+td.pagehdr_detb {
+        border-right: solid black 1px;
+        border-bottom: solid black 1px;
+        border-left: solid black 1px;
+        font-weight: normal;
+}
+
+/* Start t108175 */
+/* heading: left, bottom, right, top lines */
+td.head_lbrt {
+        border-left: solid black 1px;
+        border-bottom: solid black 1px;
+        border-right: solid black 1px;
+        border-top: solid black 1px;
+        font-weight: bold;
+}
+
+/* heading: bottom, right, top lines */
+td.head_brt {
+        border-bottom: solid black 1px;
+        border-right: solid black 1px;
+        border-top: solid black 1px;
+        font-weight: bold;
+}
+
+/* heading: bottom, left, top lines */
+td.head_blt {
+        border-bottom: solid black 1px;
+        border-left: solid black 1px;
+        border-top: solid black 1px;
+        font-weight: bold;
+}
+
+/* heading: bottom line */
+td.head_b {
+        border-bottom: solid black 1px;
+        font-weight: bold;
+}
+
+/* heading: top, right lines */
+td.head_tr {
+        border-top: solid black 1px;
+        border-right: solid black 1px;
+        font-weight: bold;
+}
+
+/* heading: no lines */
+td.head_nolines {
+        font-weight: bold;
+}
+
+/* cell: left, bottom, right lines */
+td.cell_lbr {
+        border-left: solid black 1px;
+        border-bottom: solid black 1px;
+        border-right: solid black 1px;
+        font-weight: normal;
+}
+
+/* cell: right line */
+td.cell_r {
+        border-right: solid black 1px;
+        font-weight: normal;
+}
+
+/* cell: bottom, right lines */
+td.cell_br {
+        border-right: solid black 1px;
+        border-bottom: solid black 1px;
+        font-weight: normal;
+}
+
+/* cell: left, bottom lines */
+td.cell_lb {
+        border-bottom: solid black 1px;
+        border-left: solid black 1px;
+        font-weight: normal;
+}
+/* End t108175 */
+
+div.qualtext {
+        border-right: solid black 1px;
+        border-bottom: solid black 1px;
+        border-left: solid black 1px;
+        border-top: solid black 1px;
+        font-weight: normal;
+        width: 75%;
+        text-align: left;
+}
+
+td.coltotl {
+        border-left: solid black 1px;
+        border-top: solid black 1px;
+        border-bottom: solid black 1px;
+        padding-right: 2px;
+}
+
+td.coltotr {
+        border-left:   solid black 1px;
+        border-right:  solid black 1px;
+        border-top:    solid black 1px;
+        border-bottom: solid black 1px;
+        padding-right: 2px;
+}
+
+div.fra_footer {
+        background-color: #A6E092;
+        text-align : left;
+        vertical-align : top;
+        color: #9C9C9C;
+        position: absolute; bottom: 0%;
+}
+
+div.fra_main {
+        text-align : center;
+}
+
+th.fra_main {
+        background-color: #E1BB79;
+}
+
+td.fra_main {
+        background-color: #EAEAEA;
+}
+
+p.fra_main {
+        font-weight: bold;
+        text-align: center;
+        vertical-align: middle;
+        color: #525252;
+}
+/* ******************************************** */
+/* START: Setup used in Record List             */
+/* ******************************************** */
+table.rltable {
+        vertical-align : bottom;
+        border:0px solid black;
+        width:100%;
+}
+
+/* NB: if something changes in rlheader, keep rlheader_top in sync.  they are
+       same, except rlheader_top does not have a border-bottom.*/
+tr.rlheader {
+        font-weight: bold;
+        background-color: #EAEAEA;
+        vertical-align : bottom;
+}
+
+tr.rlheader td,
+tr.rlheader th {
+        border-bottom: 1px solid silver;
+        text-align:left;
+        padding-right:2px;
+}
+
+td.rlheader2 
+ {
+        border-bottom: 1px solid silver;
+        text-align:left;
+        padding-right:2px;
+		font-weight: bold;
+        background-color: #EAEAEA;
+        vertical-align : bottom;
+}
+
+td.rlheader3 
+ {
+	 font-weight: bold;
+        background-color: #EAEAEA;
+        vertical-align : bottom;
+        border-bottom: 1px solid silver;
+        text-align:right;
+        padding-right:2px;
+}
+
+/* t117575
+   same as rlheader, but used for multi-row headings, such as FinWeb query -
+   budget allocation detail. no border-bottom. */
+tr.rlheader_top {
+        font-weight: bold;
+        background-color: #EAEAEA;
+        vertical-align : bottom;
+}
+
+tr.rlheader_top td,
+tr.rlheader_top th {
+        border-bottom: none;
+        text-align:left;
+        padding-right:2px;
+}
+
+/* Spreadsheet look with Heading on left, for quotations */
+td.colheader {
+  font-weight: bold;
+  background-color: #EAEAEA;
+  vertical-align : bottom;
+        border-bottom: none;
+        text-align:left;
+        padding-right:2px;
+        border-right:1px solid silver;
+}
+
+td.colheader_bottom {
+  font-weight: bold;
+  background-color: #EAEAEA;
+  vertical-align : bottom;
+        border-bottom: none;
+        text-align:left;
+        padding-right:2px;
+        border-right:1px solid silver;
+        border-bottom:1px solid silver;
+}
+
+td.rlerror {
+        color: RED;
+        font-weight: bold;
+        font-style: italic;
+}
+
+tr.rldata {
+        vertical-align : top;
+        padding-right:2px;
+}
+
+tr.rlctlbrk {
+        background-color: #EAEAEA;
+        vertical-align : bottom;
+}
+/* END  : Setup used in Record List             */
+
+/* START: Setup used in insert and update forms */
+table.datadisp {
+        vertical-align : bottom;
+        border: 0px solid black;
+}
+
+/* Header setup for Single row screens */
+/* This is used for single records where the prompts are on the left */
+td.datahdr {
+        font-weight: bold;
+        text-align: right;
+        padding-right:2px;
+        vertical-align: middle;
+}
+
+/* Header setup for Multi-Row screens */
+/* This is used for displaying rows of detail in columnar format */
+tr.mrheader {
+        font-weight: bold;
+        background-color: #EAEAEA;
+        padding-right:2px;
+}
+
+tr.mrheader td,
+tr.mrheader th {
+        border-bottom: 1px solid silver;
+        text-align:left;
+        vertical-align:bottom;
+}
+
+/* Header setup for Multi-Row screens */
+/* This is used for displaying rows of detail in columnar format */
+table.mrdatadisp {
+        padding-right:2px;
+        vertical-align : top;
+}
+
+td.datacella {
+        text-align: left;
+}
+
+td.datacelln {
+        text-align: right;
+}
+
+td.datacellc {
+        text-align: center;
+}
+
+/* Multi-row Error display */
+td.mrerror {
+        color: RED;
+        font-weight: bold;
+        font-style: italic;
+}
+/* END  : Setup used in insert and update forms */
+
+/* HEADER */
+div.fra_header {
+  clear: both;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  width:100%;
+        background-color: #EAEAEA;
+  font-weight: bold;
+  border-top-style: solid;
+  border-top-color: black;
+  border-top-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: black;
+  border-bottom-width: 1px;
+}
+
+div.fra_inst {
+  color: #525252;
+  text-align: right;
+  float: left;
+  padding-left: 5px;
+}
+
+div.fra_date {
+  color: #525252;
+  text-align: right;
+  float: right;
+  padding-right: 5px;
+}
+
+div.fra_img {
+  clear: both;
+  padding-top:5px;
+  width:100%;
+  background-color: white;
+}
+
+div.fra_content_left {
+  text-align: right;
+  float: left;
+  padding-left: 5px;
+}
+
+div.fra_content_right {
+  text-align: right;
+  float: right;
+  padding-right: 5px;
+}
+
+/* FOOTER */
+.customfooter {
+        background-color: #EAEAEA;
+        color: #9C9E9C;
+}
+
+td.nodata {
+        font-weight : bold;
+        background-color : #FFFFFF;
+}
+
+p.sectionhdr {
+        font-weight : bold;
+        text-align  : center;
+        background-color: #C0C0C0;
+}
+
+.sectionbrk {
+        font-weight : bold;
+        text-align  : center;
+        background-color: #C0C0C0;
+}
+
+.sectionhdr {
+        font-weight : bold;
+        text-align  : center;
+        background-color: #C0C0C0;
+}
+
+.subhead1 {
+        font-weight : bold;
+        color : #5A7EDC;
+}
+
+table.fra_table {
+        background-color: #A0BAF3;
+        vertical-align : bottom;
+}
+
+table.finreqdoc {
+        background-color: #CEDBFF;
+        width: 100%;
+        height: 7%;
+}
+
+table.mi_userdet {
+        background-color: #EAEAEA;
+}
+
+table.ctx_table {
+  font-weight : normal;
+}
+
+td.ctx_colhdr {
+  font-weight : bold;
+        padding-right:2px;
+        padding-left:2px;
+}
+
+td.ctx_coldata {
+        padding-right:2px;
+        padding-left:2px;
+}
+
+td.crm_userdet {
+        background-color: #EAEAEA;
+}
+
+td.defined_itm_dark {
+        background-color: #EAEAEA;
+}
+
+td.defined_itm_light {
+        background-color: #F2F2F2;
+}
+
+tr.birlhdr {
+        background-color: #E2E2E2;
+        padding-right:2px;
+}
+
+A.here_font:LINK,
+A.here_font:VISITED,
+A.here_font:ACTIVE {
+        font-weight: bold;
+        font-style: italic;
+}
+
+A.here_font:HOVER {
+        text-decoration: underline;
+        font-weight: bold;
+        font-style: italic;
+}
+
+/* The header at the top of the login screen */
+/* NOTE: this has no effect on the header frame after login */
+#fra_header {
+        display: inline-block;
+}
+
+#fra_img {
+        display: inline-block;
+}
+
+/* The Footer at the bottom of the login screen  */
+/* NOTE: this has no effect on the footer frame after login */
+
+font.fldhdr {
+        font-weight: bold;
+}
+
+span.cycleblock {
+        background-color: #C9B405;
+}
+
+span.blockheader {
+        background-color: yellow;
+        font-weight: bold;
+        font-size: 14px;
+}
+
+/* This is used for reporting errors on insert/update/delete screens */
+.ErrorDiv {
+   color: RED;
+        font-weight: bold;
+        font-style: italic;
+}
+
+.ISMA_error {
+        color: RED;
+        font-weight: bold;
+        font-style: italic;
+}
+
+DIV.ISMA_ok {
+        color: Green;
+        font-weight: bold;
+        font-style: italic;
+        font-size: 20px;
+}
+
+.thisproc {
+        color: #E6F2FF;
+        font-weight: bold;
+        font-style: italic;
+}
+
+.nxtproc a ,
+.nxtproc a:active ,
+.nxtproc a:link ,
+.nxtproc a:visited ,
+.nxtproc a:hover {
+        color: black;
+        background-color: #DCDCDC;
+        text-align: right;
+        vertical-align: bottom;
+        font-weight: bold;
+        font-style: italic;
+        margin-top: 3px;
+        border-top: 1px solid buttonhighlight;
+        border-left: 1px solid buttonshadow;
+        border-right: 1px solid buttonshadow;
+        border-bottom: 1px solid buttonshadow;
+}
+
+div.lll {
+        margin-left:10px;
+}
+/* Class sortColumns are used when a table has to have the sort functionality
+   Remember to include the tablesort.js script */
+thead.sortColumns td {
+        font-weight: bold;
+        background-color: #EAEAEA;
+        vertical-align : bottom;
+        border-bottom: 1px solid red;
+        text-align:left;
+        padding-right:2px;
+}
+
+thead.sortColumns .arrow {
+        font-family: webdings;
+        color: black;
+        padding: 0;
+        font-size: 10px;
+        height: 11px;
+        width: 10px;
+        overflow: hidden;
+        margin-bottom: 2px;
+        margin-top: 1px;
+        padding: 0px;
+        padding-top: 0px;
+        padding-bottom: 2px;
+}
+
+td.TestMarkColumn {
+        padding-top: 0px;
+  padding-bottom: 0px;
+        border-left: 1px solid buttonshadow;
+        border-right: 1px solid buttonshadow;
+        border-top: 1px solid buttonshadow;
+        border-bottom: 1px solid buttonshadow;
+}
+
+.divon {
+  display: block;
+}
+
+.divoff {
+  display: none;
+}
+
+.breadcrumb{
+  font: bold 10px Verdana, Helvetica, sans-serif;
+}
+
+/* Underline breadcrumb for class="visited" href */
+.breadcrumb a.visited{
+  background: transparent url(/itsimages/breadcrumb.gif) no-repeat center right;
+  font-size: 11px;
+  text-decoration: underline;
+  padding-right: 10px;
+  color: navy;
+}
+/* Don't underline breadcrumb for class="current" href */
+.breadcrumb a.current{
+  background: transparent url(/itsimages/breadcrumb.gif) no-repeat center right;
+  font-size: 11px;
+  padding-right: 10px;
+  color: navy;
+}
+
+tr.de td {
+        background-color: #FFFFF4;
+}

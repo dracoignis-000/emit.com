@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Business on Agro Park</title>
+    <link>http://example.org/tags/business/</link>
+    <description>Recent content in Business on Agro Park</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Aug 2021 21:29:20 +0200</lastBuildDate><atom:link href="http://example.org/tags/business/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>E-commerce may be a key enabler for Africa</title>
+      <link>http://example.org/blog/2021/08/01/ecommerce/</link>
+      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
+      
+      <guid>http://example.org/blog/2021/08/01/ecommerce/</guid>
+      <description>E-commerce and Agriculture: A Match Made in Heaven
+By Tarry Godfrey Gaoseb
+E-commerce is revolutionizing the way we shop for goods and services, and agriculture is no exception. In recent years, there has been a growing trend of farmers and agricultural businesses using e-commerce platforms to sell their products. This trend is being driven by a number of factors, including the increasing popularity of online shopping, the growing demand for fresh and high-quality agricultural products, and the rising adoption of advanced technologies.</description>
+    </item>
+    
+  </channel>
+</rss>

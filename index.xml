@@ -1,118 +1,51 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Godfrey | EMIT IO</title>
-    <link>http://dracoignis-000.github.io/</link>
-    <description>Recent content on Godfrey | EMIT IO</description>
+    <title>Agro Park</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Agro Park</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Dec 2019 20:56:42 +0600</lastBuildDate><atom:link href="http://dracoignis-000.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Aug 2021 21:29:20 +0200</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Agro Park</title>
-      <link>http://dracoignis-000.github.io/portfolio/agro-park/</link>
-      <pubDate>Mon, 23 Dec 2019 20:56:42 +0600</pubDate>
+      <title>E-commerce may be a key enabler for Africa</title>
+      <link>http://example.org/blog/2021/08/01/ecommerce/</link>
+      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
       
-      <guid>http://dracoignis-000.github.io/portfolio/agro-park/</guid>
-      <description>title: Agro Park. Bringing the Farmer Closer to the User! The Farmer&amp;rsquo;s Portal is a web-based application that aims to help farmers manage their crops and improve their yields.</description>
+      <guid>http://example.org/blog/2021/08/01/ecommerce/</guid>
+      <description>E-commerce and Agriculture: A Match Made in Heaven
+By Tarry Godfrey Gaoseb
+E-commerce is revolutionizing the way we shop for goods and services, and agriculture is no exception. In recent years, there has been a growing trend of farmers and agricultural businesses using e-commerce platforms to sell their products. This trend is being driven by a number of factors, including the increasing popularity of online shopping, the growing demand for fresh and high-quality agricultural products, and the rising adoption of advanced technologies.</description>
     </item>
     
     <item>
-      <title>Social Emotional Learning</title>
-      <link>http://dracoignis-000.github.io/portfolio/sel-namibia/</link>
-      <pubDate>Mon, 23 Dec 2019 15:58:10 +0600</pubDate>
+      <title>The Synergy of E-commerce and Agriculture: Transforming the Future of Food</title>
+      <link>http://example.org/blog/2015/06/24/agriculture-ecommerce/</link>
+      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
       
-      <guid>http://dracoignis-000.github.io/portfolio/sel-namibia/</guid>
-      <description>title: Social Emotional Learning Namibia SEL Namibia Project (Social Emotional learning). In my role as the Youth Volunteer at SEL Namibia Project, I worked closely with community support projects for children and youth.</description>
+      <guid>http://example.org/blog/2015/06/24/agriculture-ecommerce/</guid>
+      <description>As technology continues to advance at an unprecedented pace, the potential for growth and innovation in the intersection of these industries is becoming increasingly apparent. In this article, we will explore the profound impact of e-commerce on agriculture, and how this symbiotic relationship is shaping the future of the food industry.
+Enhancing Market Access and Efficiency: E-commerce has revolutionized the way farmers and agricultural businesses connect with consumers, eliminating traditional barriers and transforming the market landscape.</description>
     </item>
     
     <item>
-      <title>Admin Dashboard</title>
-      <link>http://dracoignis-000.github.io/portfolio/adminhub/</link>
-      <pubDate>Mon, 23 Dec 2019 15:56:43 +0600</pubDate>
-      
-      <guid>http://dracoignis-000.github.io/portfolio/adminhub/</guid>
-      <description>title: Admin Hub This is a website design focused on showcasing an Administration Panel. Housing a Dashboard that displays the various content data, respectively The website design was created using HTML and CSS and JavaScript</description>
-    </item>
-    
-    <item>
-      <title>Africa.com</title>
-      <link>http://dracoignis-000.github.io/portfolio/africa/</link>
-      <pubDate>Mon, 23 Dec 2019 15:56:43 +0600</pubDate>
-      
-      <guid>http://dracoignis-000.github.io/portfolio/africa/</guid>
-      <description>title: Africa Uncovered Africa, a continent rich in history, culture, and resilience, celebrates Africa Day on the 25th of May each year. This significant occasion commemorates the foundation of the Organisation of African Unity (OAU) in 1963, now known as the African Union (AU).</description>
-    </item>
-    
-    <item>
-      <title>Car Landing Page</title>
-      <link>http://dracoignis-000.github.io/portfolio/car-landing-page/</link>
-      <pubDate>Mon, 23 Dec 2019 15:56:43 +0600</pubDate>
-      
-      <guid>http://dracoignis-000.github.io/portfolio/car-landing-page/</guid>
-      <description>title: Landing Page Design This is a web design showcasing a landing page for a car selling company. The website house a single static page with links and custom design.</description>
-    </item>
-    
-    <item>
-      <title>Fruitify.com</title>
-      <link>http://dracoignis-000.github.io/portfolio/fruitify/</link>
-      <pubDate>Mon, 23 Dec 2019 15:56:43 +0600</pubDate>
-      
-      <guid>http://dracoignis-000.github.io/portfolio/fruitify/</guid>
-      <description>title: Fruitify. Everything fruits right here! This is a website design focused on showcasing different types of fruits. The website includes a homepage, about page, and a fruit catalog page.</description>
-    </item>
-    
-    <item>
-      <title>MarktSuper - Local Market</title>
-      <link>http://dracoignis-000.github.io/portfolio/marktsuper/</link>
-      <pubDate>Mon, 23 Dec 2019 15:56:43 +0600</pubDate>
-      
-      <guid>http://dracoignis-000.github.io/portfolio/marktsuper/</guid>
-      <description>This is a website design focused on showcasing an online grocery store. Housing an About, Services, Shop and Contact Us pages respectively The website design was created using HTML and CSS and JavaScript</description>
-    </item>
-    
-    <item>
-      <title>Aromatica Natural Essence</title>
-      <link>http://dracoignis-000.github.io/portfolio/aromatica-natural-essence/</link>
-      <pubDate>Mon, 23 Dec 2019 15:55:44 +0600</pubDate>
-      
-      <guid>http://dracoignis-000.github.io/portfolio/aromatica-natural-essence/</guid>
-      <description>This is a website design focused on showcasing and Ecommerce Store. Natural Body care Products Store. Namibia. The website includes a homepage, about page, and a fruit catalog page.</description>
-    </item>
-    
-    <item>
-      <title>MINDSINACTION STEAM</title>
-      <link>http://dracoignis-000.github.io/portfolio/mindsinaction-steam/</link>
-      <pubDate>Mon, 23 Dec 2019 15:55:44 +0600</pubDate>
-      
-      <guid>http://dracoignis-000.github.io/portfolio/mindsinaction-steam/</guid>
-      <description>title: Mindsinaction STEAM Center We are a space where students explore Science, Technology, Engineering, Arts and Mathematics through exciting hands-on activities. Additionally, we take pride in offering quality ICT and Engineering Services.</description>
-    </item>
-    
-    <item>
-      <title>Namibia Constitution</title>
-      <link>http://dracoignis-000.github.io/portfolio/namibia-constitution/</link>
-      <pubDate>Mon, 23 Dec 2019 15:44:46 +0600</pubDate>
-      
-      <guid>http://dracoignis-000.github.io/portfolio/namibia-constitution/</guid>
-      <description>title: Namibia Constitution Mobile Application The Farmer&amp;rsquo;s Portal is a web-based application that aims to help farmers manage their crops and improve their yields. It provides various features such as weather updates, crop advice, market prices, and a forum for farmers to connect with each other.</description>
-    </item>
-    
-    <item>
-      <title>Content Creation</title>
-      <link>http://dracoignis-000.github.io/blog/content-creation/</link>
+      <title>Contact</title>
+      <link>http://example.org/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://dracoignis-000.github.io/blog/content-creation/</guid>
-      <description>It is with great pleasure and enthusiasm that I present to you our comprehensive content creation price list. As you go through this document, I want to express my sincere gratitude for considering EMIT IO as your trusted partner in transforming your big ideas into a remarkable digital experience.</description>
+      <guid>http://example.org/contact/</guid>
+      <description>We are here to help you Are you curious about something? Do you have some kind of problem with our products?
+Please feel free to contact us, our customer service center is working for you 24/7.</description>
     </item>
     
     <item>
-      <title>Web Design &amp; Development</title>
-      <link>http://dracoignis-000.github.io/blog/web-design-development/</link>
+      <title>FAQ</title>
+      <link>http://example.org/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://dracoignis-000.github.io/blog/web-design-development/</guid>
-      <description>It is with great pleasure and enthusiasm that I present to you our comprehensive web development price list. As you go through this document, I want to express my sincere gratitude for considering EMIT IO as your trusted partner in transforming your big ideas into a remarkable digital experience.</description>
+      <guid>http://example.org/faq/</guid>
+      <description>How do I create an account? To create an account, simply visit the Agro Park website and click on the &amp;ldquo;Create Account&amp;rdquo; button. You will be prompted to enter your name, email address, and password. Once you have created an account, you will be able to log in and start shopping.
+How do I find products? You can find products on the Agro Park website by using the search bar or by browsing through the different categories.</description>
     </item>
     
   </channel>
