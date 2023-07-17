@@ -2,62 +2,81 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/tags/africa/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>https://www.example.com/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/agriculture/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>https://www.example.com/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/agriculture/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>https://www.example.com/tags/css/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>https://www.example.com/tags/html/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/authors/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>https://www.example.com/tags/markdown/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/blog/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>https://www.example.com/post/markdown-syntax/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/business/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>https://www.example.com/pricing/markdown-syntax/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/business/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>https://www.example.com/post/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>https://www.example.com/pricing/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/commerce/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>https://www.example.com/series/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/blog/2021/08/01/ecommerce/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>https://www.example.com/tags/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/ecommerce/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>https://www.example.com/series/themes-guide/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/authors/godfrey-gaoseb/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>https://www.example.com/tags/privacy/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>https://www.example.com/post/rich-content/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/agriculture-ecommerce-farming-food/</loc>
-    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
+    <loc>https://www.example.com/pricing/rich-content/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/ecommerce-and-agriculture/</loc>
-    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
+    <loc>https://www.example.com/tags/shortcodes/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/authors/godfrey-tarry-gaoseb/</loc>
-    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
+    <loc>https://www.example.com/post/placeholder-text/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/blog/2015/06/24/agriculture-ecommerce/</loc>
-    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
+    <loc>https://www.example.com/pricing/placeholder-text/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/contact/</loc>
+    <loc>https://www.example.com/tags/text/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/faq/</loc>
+    <loc>https://www.example.com/post/math-typesetting/</loc>
+    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.example.com/pricing/math-typesetting/</loc>
+    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.example.com/tags/emoji/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.example.com/post/emoji-support/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.example.com/pricing/emoji-support/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.example.com/about/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.example.com/tags/index/</loc>
   </url>
 </urlset>

@@ -1,54 +1,81 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Agro Park</title>
-    <link>http://example.org/tags/</link>
-    <description>Recent content in Tags on Agro Park</description>
+    <title>Tags on EMIT</title>
+    <link>https://www.example.com/tags/</link>
+    <description>Recent content in Tags on EMIT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Aug 2021 21:29:20 +0200</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://www.example.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Africa</title>
-      <link>http://example.org/tags/africa/</link>
-      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
+      <title>css</title>
+      <link>https://www.example.com/tags/css/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/africa/</guid>
+      <guid>https://www.example.com/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Agriculture</title>
-      <link>http://example.org/tags/agriculture/</link>
-      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
+      <title>html</title>
+      <link>https://www.example.com/tags/html/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/agriculture/</guid>
+      <guid>https://www.example.com/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Business</title>
-      <link>http://example.org/tags/business/</link>
-      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
+      <title>markdown</title>
+      <link>https://www.example.com/tags/markdown/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/business/</guid>
+      <guid>https://www.example.com/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Ecommerce</title>
-      <link>http://example.org/tags/ecommerce/</link>
-      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
+      <title>privacy</title>
+      <link>https://www.example.com/tags/privacy/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/ecommerce/</guid>
+      <guid>https://www.example.com/tags/privacy/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Ecommerce and Agriculture</title>
-      <link>http://example.org/tags/ecommerce-and-agriculture/</link>
-      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
+      <title>shortcodes</title>
+      <link>https://www.example.com/tags/shortcodes/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/ecommerce-and-agriculture/</guid>
+      <guid>https://www.example.com/tags/shortcodes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>text</title>
+      <link>https://www.example.com/tags/text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.example.com/tags/text/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>emoji</title>
+      <link>https://www.example.com/tags/emoji/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.example.com/tags/emoji/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>index</title>
+      <link>https://www.example.com/tags/index/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.example.com/tags/index/</guid>
       <description></description>
     </item>
     
